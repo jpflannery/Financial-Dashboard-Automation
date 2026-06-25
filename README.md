@@ -1,4 +1,4 @@
-# Monthly-Financial-Dashboard-Automation-System
+# Financial-Dashboard-Automation
 Excel VBA solution for automating account reconciliation and exception reporting.
 
 ## Overview
